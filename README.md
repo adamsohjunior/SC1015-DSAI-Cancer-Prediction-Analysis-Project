@@ -5,8 +5,8 @@ DSAI FCSH (Group 5)
 This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which focuses on cancer cells. For detailed walkthrough, please view the source code in order:
 1. [Data Extraction](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/DataExtraction.ipynb)
 2. [Data Visualisation](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/DataVisualization.ipynb)
-3. [Data Splitting/Classification](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/DataSplit_Class.ipynb)
-4. [Random Forest Tree](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/RandomForest.ipynb)
+3. [Data Splitting/Decision Tree Classifier](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/DataSplit_Class.ipynb)
+4. [Random Forest Classifier (with CV)](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/RandomForest.ipynb)
 
 ## Problem Definition
 * Are we able to utilise the traits and characteristics of a cancer cell to predict the nature of the tumour: Benign or Malignant?
@@ -31,9 +31,9 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 * Collaborating on GitHub
 
 ## Contributors
-* @aanya(Aanya): Editing and markdown of codes + Designing slides.
-* @adamsohjunior(Adam): Data-cleaning + EDA + Develop machine learning models.
-* @lyxm58290(Maeko): Assist in developing machine learning models + Preparation of GitHub + Script and Video Editing.
+* @aanya(Aanya): Editing and markdown of codes + Designing slides
+* @adamsohjunior(Adam): Data-cleaning + EDA + Develop machine learning models
+* @lyxm58290(Maeko): Assist in developing machine learning models + Preparation of GitHub + Script and Video Editing
 
 ## References
 https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
