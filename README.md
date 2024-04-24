@@ -24,6 +24,8 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 
 ## What did we learn from this project
 * Teamwork makes the dream work
+* Exploratory Data Analysis
+* The use of Decision Tree Classifier
 * The use of Random Forest Classifier (RFC)
 * Enhance RFC with Cross-Validation Method
 * Collaborating on GitHub
