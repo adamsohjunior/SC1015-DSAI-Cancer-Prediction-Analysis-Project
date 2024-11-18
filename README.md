@@ -1,4 +1,4 @@
-# DSAI_Cancer Prediction Analysis Project
+# SC1015 DSAI: Cancer Prediction Analysis Project
 DSAI FCSH (Group 5)
 
 ## About
