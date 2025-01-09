@@ -1,6 +1,10 @@
 # SC1015 DSAI: Cancer Prediction Analysis Project
 DSAI FCSH (Group 5)
 
+<p align="center">
+  <img src="readme_cover.png" alt="Cover"/>
+</p>
+
 ## About
 This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which focuses on cancer cells. For detailed walkthrough, please view the source code in order:
 1. [Data Extraction](https://github.com/adamsohjunior/DSAI_CancerData/blob/main/Notebooks/DataExtraction.ipynb)
